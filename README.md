@@ -5,7 +5,8 @@
 ### 课程目录
 
 报名课程请咨询亁颐堂官方网站
-[](http://www.qytang.com)
+
+[亁颐堂官网链接](http://www.qytang.com)
 
 1. Python语言介绍
 2. Python环境安装
