@@ -2,8 +2,9 @@
 
 * 介绍Windows Python环境安装
 * 介绍Linux Python环境安装
-* Pycharm IDE开发环境
-    教主技术进化论 2018 第21期 PyCharm基本操作 0 目录简介:
+
+- Pycharm IDE开发环境
+    - 教主技术进化论 2018 第21期 PyCharm基本操作 0 目录简介:
     https://ke.qq.com/webcourse/index.html#course_id=271956&term_id=100321201&taid=2197189304788564&vid=t1426p1da10
 
     - 教主技术进化论 2018 第21期 PyCharm基本操作 1 PyCharm Pro下载并安装
@@ -26,3 +27,4 @@
 
     - 教主技术进化论 2018 第21期 PyCharm基本操作 7 本地开发远程调试
     https://ke.qq.com/webcourse/index.html#course_id=271956&term_id=100321201&taid=2197219369559636&vid=x14264iqll3
+
