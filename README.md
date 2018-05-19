@@ -6,7 +6,7 @@
 
 ![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/logo/Logo.jpg)
 
-报名课程请咨询亁颐堂官方网站
+### 报名课程请咨询亁颐堂官方网站
 
 [亁颐堂官网链接](http://www.qytang.com)
 
@@ -28,7 +28,7 @@
 16. Python多线程与多进程
 17. Python异常处理
 
-对Python工作原理做了大量而详细的图解:
+### 对Python工作原理做了大量而详细的图解:
 
 ![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python1.png)
 
