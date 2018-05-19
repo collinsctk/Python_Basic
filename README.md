@@ -28,3 +28,24 @@
 16. Python多线程与多进程
 17. Python异常处理
 
+对Python工作原理做了大量而详细的图解:
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python1.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python2.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python3.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python4.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python5.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python6.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python7.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python8.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python9.png)
+
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/course/python10.png)
