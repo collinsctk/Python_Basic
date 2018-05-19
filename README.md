@@ -4,7 +4,7 @@
 
 ### 课程目录
 
-![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/logo/Logo.png)
+![](https://gitee.com/qytanggit/Python_Basic/raw/master/image/logo/Logo.jpg)
 
 报名课程请咨询亁颐堂官方网站
 
